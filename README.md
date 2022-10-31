@@ -1,8 +1,13 @@
 # Pactica-Front
 
 Practica de Front-End
+
+
 Realizada con Sketch - Css, creando las vistas de un e-commerce, para luego consumir una Api destinada a este Front.
+
+
 Para el tema del responsive delimité que solo van a existir insidencias en caso de ser mayor a 640 px max-width:640px.
+
 usando imagenes en formato .svg para que así nuestras vistas aún siendo visualizadas en un pixelaje mayor puedan mantener su densidad.
 
 
